@@ -124,7 +124,7 @@ header .center-bar ul li a:focus {
 
 /* Banner section design */
 .banner {
-  background: url("./assets/img/banner.jpg");
+  background: url("assets/img/banner.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -208,18 +208,18 @@ header .center-bar ul li a:focus {
   background-repeat: no-repeat;
 }
 .about-speaker .speaker-card:nth-child(1) .top-area {
-  background-image: url("./assets/img/andrej.png");
+  background-image: url("assets/img/andrej.png");
 }
 .about-speaker .speaker-card:nth-child(2) .top-area {
-  background-image: url("./assets/img/demis.png");
+  background-image: url("assets/img/demis.png");
 }
 
 .about-speaker .speaker-card:nth-child(3) .top-area {
-  background-image: url("./assets/img/gary.png");
+  background-image: url("assets/img/gary.png");
 }
 
 .about-speaker .speaker-card:nth-child(4) .top-area {
-  background-image: url("./assets/img/mustafa.png");
+  background-image: url("assets/img/mustafa.png");
 }
 
 .about-speaker .speaker-card .bottom-area {
