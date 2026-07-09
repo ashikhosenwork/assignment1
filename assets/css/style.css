@@ -171,7 +171,7 @@ header .center-bar ul li a:focus {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  width: 50%;
+  width: 60%;
   margin: auto;
   z-index: 5;
 }
