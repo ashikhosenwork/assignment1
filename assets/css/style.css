@@ -188,6 +188,7 @@ header .center-bar ul li a:focus {
   background-clip: text;
   -webkit-font-smoothing: antialiased;
   background-size: 12px 12px;
+  text-align: center;
 }
 
 .banner .text {
